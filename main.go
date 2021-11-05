@@ -3,5 +3,6 @@ package main
 func main() {
 	//Variables()
 	//Functions()
-	Defer()
+	//Defer()
+	Panics()
 }
