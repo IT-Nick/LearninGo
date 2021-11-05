@@ -4,5 +4,6 @@ func main() {
 	//Variables()
 	//Functions()
 	//Defer()
-	Panics()
+	//Panics()
+	Struct()
 }
