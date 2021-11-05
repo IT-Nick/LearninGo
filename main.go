@@ -5,5 +5,6 @@ func main() {
 	//Functions()
 	//Defer()
 	//Panics()
-	Struct()
+	//Struct()
+	StructMethod()
 }
